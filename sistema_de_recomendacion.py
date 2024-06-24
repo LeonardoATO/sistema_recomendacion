@@ -9,7 +9,7 @@ Original file is located at
 # Data Collect
 """
 
-pip install -r requirements.txt
+
 
 import requests
 import base64
