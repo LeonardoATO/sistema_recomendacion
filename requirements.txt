@@ -5,4 +5,5 @@ requests
 seaborn
 pandas
 numpy
+sklearn.model_selection
 train_test_split
