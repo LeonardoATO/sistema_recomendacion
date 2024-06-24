@@ -2,7 +2,6 @@ spotipy
 matplotlib
 scipy
 requests
-base64
 seaborn
 pandas
 numpy
